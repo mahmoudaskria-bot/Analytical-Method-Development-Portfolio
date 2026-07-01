@@ -1,20 +1,43 @@
-# 👋 Hi, I'm Mahmoud ASKARIA
+ 👨‍🔬 Mahmoud ElSayed
 
-## Pharmaceutical R&D | Analytical Method Development
+## Pharmaceutical R&D | Analytical Method Development | HPLC
 
-Welcome to my analytical portfolio.
+Welcome to my Analytical Method Development Portfolio.
 
-Here I document my work in:
-
-- HPLC Method Development
-- Method Validation
-- Stability Studies
-- Troubleshooting
-- Scientific Notes
-- Calculations
+I am a Pharmacist working in Pharmaceutical Research & Development (R&D), with a focus on analytical method development, validation, and stability studies for pharmaceutical products.
 
 ---
 
-## Projects
+## 🔬 Areas of Interest
 
-Coming soon...
+- Analytical Method Development
+- HPLC & UV Analysis
+- Method Validation (ICH Q2)
+- Stability Studies
+- Pharmaceutical Quality Control
+- Forced Degradation Studies
+
+---
+
+## 📂 Repository Structure
+
+| Folder | Description |
+|---------|-------------|
+| 01_Method_Development | Method development projects |
+| 02_Method_Validation | Validation studies |
+| 03_Troubleshooting | HPLC troubleshooting |
+| 04_Calculations | Pharmaceutical calculations |
+| 05_Scientific_Notes | Technical notes |
+| 06_ICH_Guidelines | Guideline summaries |
+| 07_Projects | Complete analytical projects |
+
+---
+
+## 🚀 Current Projects
+
+- Ciprofloxacin IV Infusion
+- Lactic Acid Assay
+
+---
+
+Thank you for visiting my portfolio.
